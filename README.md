@@ -5,4 +5,4 @@ Alınan veriler Ad Soyad ve Kullanıcı Adı ile listelenir.
 
 ## Ekran Görüntüleri
 
-<img src="https://user-images.githubusercontent.com/63808749/186419081-6a5c1ab6-0827-4eb0-8368-d01e30b49605.png" height="300">
+<img src="https://user-images.githubusercontent.com/63808749/186419081-6a5c1ab6-0827-4eb0-8368-d01e30b49605.png" height="600" align="center">
